@@ -1,0 +1,10 @@
+{
+  "name": "csssrtest",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "25.1.0",
+    "frisby": "2.1.2"
+  }
+}
